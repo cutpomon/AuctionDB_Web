@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\bin\Debug\net5.0\Data.runtimeconfig.json
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\bin\Debug\net5.0\Data.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Denis\Desktop\EFCoreFirstDB_Auction\Data\obj\Debug\net5.0\Data.genruntimeconfig.cache
